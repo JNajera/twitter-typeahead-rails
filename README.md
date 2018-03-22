@@ -68,7 +68,7 @@ $('.example-numbers .typeahead').typeahead(null, {
 });
 ```
 
-Currently this version tracks version v0.11.1.
+Currently this version tracks version v1.2.1.
 
 ## Contributing
 
